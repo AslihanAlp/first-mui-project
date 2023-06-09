@@ -65,7 +65,7 @@ const Navbar = () => {
         <UserBox onClick={(e) => setOpen(true)}>
         <Avatar src={img1}
                 sx={{width:30, height:30}}/>
-        <Typography variant="span">Elisa</Typography>        
+        <Typography variant="span">Taylor</Typography>        
         </UserBox>
         
       </StyledToolbar>
